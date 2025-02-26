@@ -4,7 +4,7 @@ function App() {
 
   return (
     <main>
-        <input className={'input input-bordered '} type="text" placeholder="Type something..." />
+        <input className={'input input-bordered'} type="text" placeholder="Type something..." />
     </main>
   )
 }
